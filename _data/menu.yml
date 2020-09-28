@@ -1,0 +1,22 @@
+menu:
+  - title: Home
+    url: /
+    badge: ""
+    subheading: 🏡 With Quick look at recent 📃posts, 📔books etc.
+    color: ffce7c
+    svg-class: feather feather-grid
+    svg: <rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect>
+  - title: Categories
+    url: /category
+    badge: ""
+    subheading: 📦The top and 👌best categories of ours.
+    color: ff7cad
+    class: feather feather-layers
+    svg: <polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline>
+  - title: Contact
+    url: /contact
+    badge: ""
+    subheading: 📧 Contact us for 💁‍♂️help and content request.
+    color: 7cdaff
+    svg-class: feather feather-headphones
+    svg: <path d="M3 18v-6a9 9 0 0 1 18 0v6"></path><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"></path>
