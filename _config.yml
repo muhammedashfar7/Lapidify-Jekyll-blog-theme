@@ -23,7 +23,7 @@ manifest:
   start_url: "/"
 
 # BaseURL
-baseurl: "muhammedashfar7.github.io/Lapidify-Jekyll-Theme"
+baseurl: "Lapidify-Jekyll-Theme"
 
 # Author Box
 authorbox: disabled
